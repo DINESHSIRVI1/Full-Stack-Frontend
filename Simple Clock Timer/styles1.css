@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.clock {
+    font-size: 2rem;
+    color: #333;
+    margin: 20% auto;
+   
+}
+
+div{
+    background-color: aqua;
+    width: 200px;
+    height: 40px;
+   border-radius: 20px;
+   margin-top: 20px;
+   }
